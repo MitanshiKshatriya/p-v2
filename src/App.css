@@ -1,5 +1,23 @@
+/*
+* VOILET: #6600CC
+* DARK: #282c34;
+* LIGHT-BLUE: #61dafb;
+* SILVER: #E6E8FA;
+* steelblue
+* cadetblue
+*
+*/
+
+*{
+  /* background-color: #282c34; */
+  background-color: #FFFFFF;
+  
+
+}
 .App {
   text-align: center;
+  /* background-color: #282c34; */
+  background-color: #FFFFFF;
 }
 
 .App-logo {
@@ -14,25 +32,123 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  
+  /* background-color: #282c34; */
+  background-color: #E6E8FA;
+  background:url(
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIklEQVQoU2NkIBIwEqmOYTApdG3a8n93nQ+GkwaTG3GFKwDubwQL+11xkgAAAABJRU5ErkJggg==
+   ) repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  /* color: white; */
+  /* background-color:#282c34; */
+  /* background-color: midnightblue; */
+  /* background-color:steelblue */
+  /* background-color:cornsilk; */
 }
 
 .App-link {
-  color: #61dafb;
+  color: #6600CC;
 }
 
-@keyframes App-logo-spin {
+
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
+} */
+
+/**custom css*/
+.center-box{
+  
+}
+.box{
+  /* display: flex; */
+  /* justify-content: space-; */
+  /* color: ; */
+  background-color: white;
+  padding: 25px;
+  border: 1px solid steelblue;
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 10px 10px steelblue;
+  min-width: 600px;
+  max-width: 750px;
+  margin-bottom: 2%;
+}
+#myname{
+  color: black;
+  padding: 5px 10px;
+}
+.myimage_myname{
+  display: flex;
+  justify-content: space-around;
+}
+
+.myimage {
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 10000px;
+  height: 150px;
+}
+
+.socials{
+  margin-top: 3%;
+  text-align: right;
+  text-decoration: none;
+}
+.socials-logo{
+  color:white;
+  height:50px;
+}
+
+/*
+* nav
+*/
+.nav-link {
+  
+  color:steelblue;
+  text-decoration: underline;
+}
+.nav-box{
+  position: absolute;
+  top:0;
+  
+  display: flex;
+  justify-content: space-around;
+  min-width: 500px;
+  margin-bottom: 10px;
+}
+
+/*
+*work heading
+*/
+
+.work-box{
+  /* display: flex; */
+  /* justify-content: space-; */
+  /* color: ; */
+  background-color: white;
+  padding: 25px;
+  border: 1px solid steelblue;
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 10px 10px steelblue;
+  max-width: 750px;
+  margin-bottom: 2%;
+}
+
+.work-heading{
+  color: steelblue;
+}
+.work-desc{
+  font-size: 0.55em;
+}
+h6{
+  line-height: 0px;
 }
