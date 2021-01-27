@@ -36,7 +36,7 @@ RSA with CRT.
 
 <h6>Taylor Swift Api — Node</h6>
 
-<p className="work-desc">- A random taylor swift lyric generator.
+<p className="work-desc">- A random taylor swift lyric generator made using NodeJS and deployed on Heroku
 </p>
     </div>
 
