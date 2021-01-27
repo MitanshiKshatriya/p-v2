@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/p-v2/static/css/main.681932cc.chunk.css",
-    "main.js": "/p-v2/static/js/main.7b00054d.chunk.js",
-    "main.js.map": "/p-v2/static/js/main.7b00054d.chunk.js.map",
-    "runtime-main.js": "/p-v2/static/js/runtime-main.75dcd7ab.js",
-    "runtime-main.js.map": "/p-v2/static/js/runtime-main.75dcd7ab.js.map",
-    "static/js/2.8cec3d69.chunk.js": "/p-v2/static/js/2.8cec3d69.chunk.js",
-    "static/js/2.8cec3d69.chunk.js.map": "/p-v2/static/js/2.8cec3d69.chunk.js.map",
-    "static/js/3.f417d1bb.chunk.js": "/p-v2/static/js/3.f417d1bb.chunk.js",
-    "static/js/3.f417d1bb.chunk.js.map": "/p-v2/static/js/3.f417d1bb.chunk.js.map",
+    "main.css": "/p-v2/static/css/main.27e764e3.chunk.css",
+    "main.js": "/p-v2/static/js/main.c0b9fdda.chunk.js",
+    "main.js.map": "/p-v2/static/js/main.c0b9fdda.chunk.js.map",
+    "runtime-main.js": "/p-v2/static/js/runtime-main.4b916c58.js",
+    "runtime-main.js.map": "/p-v2/static/js/runtime-main.4b916c58.js.map",
+    "static/js/2.c8cc22b9.chunk.js": "/p-v2/static/js/2.c8cc22b9.chunk.js",
+    "static/js/2.c8cc22b9.chunk.js.map": "/p-v2/static/js/2.c8cc22b9.chunk.js.map",
+    "static/js/3.36650299.chunk.js": "/p-v2/static/js/3.36650299.chunk.js",
+    "static/js/3.36650299.chunk.js.map": "/p-v2/static/js/3.36650299.chunk.js.map",
     "index.html": "/p-v2/index.html",
-    "static/css/main.681932cc.chunk.css.map": "/p-v2/static/css/main.681932cc.chunk.css.map",
-    "static/js/2.8cec3d69.chunk.js.LICENSE.txt": "/p-v2/static/js/2.8cec3d69.chunk.js.LICENSE.txt",
-    "static/media/IMG-20200727-WA00382.918164b1.jpg": "/p-v2/static/media/IMG-20200727-WA00382.918164b1.jpg",
+    "static/css/main.27e764e3.chunk.css.map": "/p-v2/static/css/main.27e764e3.chunk.css.map",
+    "static/js/2.c8cc22b9.chunk.js.LICENSE.txt": "/p-v2/static/js/2.c8cc22b9.chunk.js.LICENSE.txt",
     "static/media/IMG_20201207_031914.380fad1a.jpg": "/p-v2/static/media/IMG_20201207_031914.380fad1a.jpg",
     "static/media/email.02adacec.svg": "/p-v2/static/media/email.02adacec.svg",
     "static/media/github-sign.bb7ad8ab.svg": "/p-v2/static/media/github-sign.bb7ad8ab.svg",
@@ -21,9 +20,9 @@
     "static/media/twitter.32195cbf.svg": "/p-v2/static/media/twitter.32195cbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75dcd7ab.js",
-    "static/js/2.8cec3d69.chunk.js",
-    "static/css/main.681932cc.chunk.css",
-    "static/js/main.7b00054d.chunk.js"
+    "static/js/runtime-main.4b916c58.js",
+    "static/js/2.c8cc22b9.chunk.js",
+    "static/css/main.27e764e3.chunk.css",
+    "static/js/main.c0b9fdda.chunk.js"
   ]
 }
