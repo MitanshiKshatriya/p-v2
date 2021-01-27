@@ -17,7 +17,7 @@ function Navigate(props) {
 <a className="nav-link" onClick={()=>{changePage("Projects")}}>Projects</a>
     </div>
     <div>
-<a className="nav-link" href="https://drive.google.com/file/d/1-FAXLRnmsqx1awPnHp8TJH5RGFkHmz18/view?usp=sharing">Resume</a>
+<a className="nav-link" target="_blank" href="https://drive.google.com/file/d/1qsoYIsrqUj1G68-EB_4mOHJqQtDJlq2N/view?usp=sharing">Resume</a>
     </div>
     </div>
   );
