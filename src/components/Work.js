@@ -25,7 +25,9 @@ Volunteers</p>
     <h3 className="work-heading">Education</h3>  
    <h6>VIT University, Vellore — Bachelor Of Technology (Computer Science)</h6> 
    <p className="work-desc">JULY 2018 - 2022</p>
-   <p className="work-desc">Current CGPA - 8.74</p>
+   <p className="work-desc">Courses- Operating System, Database Management System, Data Structures and Algorithms,
+  Internet and Web Programming, Computer Networks
+   <b><i>{" "}Current CGPA - 8.74</i></b></p>
     </div>
        <div>
        <h3 className="work-heading">Organisations</h3>  

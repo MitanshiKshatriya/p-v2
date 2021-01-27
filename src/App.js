@@ -10,7 +10,7 @@ import Projects from "./components/Project"
 
 function App() {
 
-  const [page, setPage] = useState(3);
+  const [page, setPage] = useState(1);
 
 
   // const changePage =  function(parameter) {
