@@ -1,5 +1,6 @@
 import logo from '../logo.svg';
 import myimage from "../assets/IMG_20201207_031914.jpg"
+import myimage1 from "../assets/IMG-20200727-WA00382.jpg"
 import '../App.css';
 import github from "../assets/socials/github-sign.svg"
 import linkedin from "../assets/socials/linkedin.svg"

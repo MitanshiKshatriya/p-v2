@@ -94,6 +94,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIklEQVQoU2
 .myimage {
   height: 40vmin;
   pointer-events: none;
+  border: 5px solid steelblue;
   border-radius: 10000px;
   height: 150px;
 }
