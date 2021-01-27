@@ -1,5 +1,4 @@
 import logo from '../logo.svg';
-import myimage from "../assets/IMG_20201207_031914.jpg"
 import '../App.css';
 import Navigate from "./Navigate"
 
