@@ -1,6 +1,8 @@
 import logo from '../logo.svg';
 import myimage from "../assets/IMG_20201207_031914.jpg"
 import myimage1 from "../assets/IMG-20200727-WA00382.jpg"
+import myimage2 from "../assets/mi1.jpeg"
+import myimage3 from "../assets/mi2.jpeg"
 import '../App.css';
 import github from "../assets/socials/github-sign.svg"
 import linkedin from "../assets/socials/linkedin.svg"
@@ -14,7 +16,7 @@ function About() {
     <div className="box">
         <div className="myimage_myname">
         <div>
-        <img src={myimage} className="myimage" alt="logo" />
+        <img src={myimage1} className="myimage" alt="logo" />
         </div>
         <div>
         <h1 id="myname">Mitanshi Kshatriya</h1>
