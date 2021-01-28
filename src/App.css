@@ -33,11 +33,11 @@
 
 .App-header {
   
-  /* background-color: #282c34; */
+  background-color: #282c34;
   background-color: #E6E8FA;
-  background:url(
+   background:url(
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIklEQVQoU2NkIBIwEqmOYTApdG3a8n93nQ+GkwaTG3GFKwDubwQL+11xkgAAAABJRU5ErkJggg==
-   ) repeat;
+   ) repeat; 
   min-height: 100vh;
   display: flex;
   flex-direction: column;
