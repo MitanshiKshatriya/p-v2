@@ -30,7 +30,7 @@ function App() {
   // }
   const changePage =  useCallback(
     (parameter) => {
-      console.log("clicked")
+      // console.log("clicked")
       if(parameter==="About")
       { setPage(1); }
       else if(parameter==="Work")

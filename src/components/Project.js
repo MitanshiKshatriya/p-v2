@@ -17,6 +17,14 @@ function Projects() {
 manager. Uses various sql query statements. Applies genetic algorithms
 to find out the best possible route for the tour.</p>
 
+<h6>100DaysOfCodeLogger — NodeJS, ReactJS, MongoDB
+<em>{" "}<u><a href="https://github.com/MitanshiKshatriya/100daysOfCodeLogger-server" target="_blank">link</a></u></em>
+</h6>
+
+<p className="work-desc">- A webapp for logging 100daysOfCode progress. It also allows the user to maintain an overall list of 
+goals they would like to achieve in the 100DaysOfCode challenge.
+</p>
+
 <h6>IEEE WIE VIT website — HTML,CSS,JavaScript
 <em>{" "}<u><a href="https://ieeewievit.org/" target="_blank">link</a></u></em>
 </h6>
@@ -37,8 +45,10 @@ the mood detected.
 <em>{" "}<u><a href="https://github.com/MitanshiKshatriya/encryption-decryption-using-CRT" target="_blank">link</a></u></em>
 </h6>
 
-<p className="work-desc">- Implemented a research paper to encrypt and decrypt using only Chinese Remainder Theorem (CRT) and
-RSA with CRT.
+<p className="work-desc">- Implemented <a 
+style={{color:'steelblue'}}
+href="http://www.ripublication.com/ijaerspl2019/ijaerv14n2spl_38.pdf" target="_blank">this</a> research paper to encrypt and decrypt using only Chinese Remainder Theorem (CRT) and 
+using RSA with CRT.
 </p>
 
 <h6>Taylor Swift Api — NodeJS

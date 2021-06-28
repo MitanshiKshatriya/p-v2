@@ -21,7 +21,9 @@ function About() {
         <div>
         <h1 id="myname">Mitanshi Kshatriya</h1>
         <p>
-          Developer in the making. Being my own hype woman.
+          {/* Developer in the making. Being my own hype woman. */}
+          Final year student, VIT Vellore. 
+         Being my own hype woman.
         </p>
         </div>
         </div>
