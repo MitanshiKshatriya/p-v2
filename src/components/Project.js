@@ -52,7 +52,7 @@ using RSA with CRT.
 </p>
 
 <h6>Taylor Swift Api — NodeJS
-<em>{" "}<u><a href="https://protected-plains-05402.herokuapp.com/" target="_blank">link</a></u></em>
+<em>{" "}<u><a href="http://taylorswiftapi.herokuapp.com/" target="_blank">link</a></u></em>
 </h6>
 
 <p className="work-desc">- A random taylor swift lyric generator made using NodeJS and deployed on Heroku
