@@ -1,4 +1,3 @@
-import logo from '../logo.svg';
 // import myimage2 from "../assets/IMG-20200727-WA0038 (2).jpg"
 // import myimage1 from "../assets/IMG-20200727-WA00382.jpg"
 import myimage from "../assets/IMG_20201207_031914.jpg"
@@ -8,7 +7,7 @@ import github from "../assets/socials/github-sign.svg"
 import linkedin from "../assets/socials/linkedin.svg"
 import twitter from "../assets/socials/twitter.svg"
 import gmail from "../assets/socials/email.svg"
-import Navigate from "./Navigate"
+
 
 function About() {
   return (

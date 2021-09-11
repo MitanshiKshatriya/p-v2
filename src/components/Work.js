@@ -1,6 +1,4 @@
-import logo from '../logo.svg';
 import '../App.css';
-import Navigate from "./Navigate"
 
 function Work() {
   return (

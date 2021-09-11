@@ -68,9 +68,7 @@ em>u>a{
 } */
 
 /**custom css*/
-.center-box{
-  
-}
+
 .box{
   /* display: flex; */
   /* justify-content: space-; */
@@ -119,6 +117,9 @@ em>u>a{
   cursor: pointer;
   color:steelblue;
   text-decoration: underline;
+}
+.nav-active {
+  font-weight: bold;
 }
 .nav-box{
   position: absolute;
@@ -218,6 +219,9 @@ p {
 }
 .nav-link{
   margin: 0px 12px;
+}
+.nav-active {
+  font-weight: 650;
 }
 .box{
   /* display: flex; */
