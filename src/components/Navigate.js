@@ -1,19 +1,7 @@
-import { useState } from 'react';
 import { NavLink } from "react-router-dom";
 import "../App.css";
 
 function Navigate() {
-
-  const [ open, setOpen ] = useState(false);
-
-  const handleClick = () => {
-		setOpen(!open);
-	};
-
-	const closeMenu = () => {
-		setOpen(false);
-	};
-
   return (
     <div className="nav-box">
       <div>
