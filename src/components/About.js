@@ -19,9 +19,11 @@ function About() {
           <div>
             <h1 id="myname">Mitanshi Kshatriya</h1>
             <p>
-              {/* Developer in the making. Being my own hype woman. */}I like
-              building crazy stuff with code. I am a web developer, currently
-              exploring Machine Learning.
+              {/* Developer in the making. Being my own hype woman. */}
+              {/* I like building crazy stuff with code. I am a web developer, currently
+              exploring Machine Learning. */}
+              I like building and breaking stuff with code. Software Engineer,
+              currently exploring Machine Learning.
             </p>
           </div>
         </div>

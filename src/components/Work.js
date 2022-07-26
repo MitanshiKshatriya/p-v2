@@ -6,12 +6,19 @@ function Work() {
       <div className="work-box">
         <div>
           <h3 className="work-heading">Internships</h3>
+          <h6>Athenahealth — Software Engineer Intern</h6>
+          <p className="work-desc">JAN 2022 - JUNE 2022</p>
+          <p className="work-desc">
+            Worked on SOGI, Eligiblity and Security updates on financial
+            management system for smaller-to-medium size healthcare provider
+            groups
+          </p>
           <h6>Humourbaba.com, Remote — Web Development Intern</h6>
           <p className="work-desc">APRIL 2020 - MAY 2020</p>
           <p className="work-desc">
-            Responsible for realising UI design of the admin panel into highly
-            ecient and interactive web pages using ReactJs and integrating it
-            with the database
+            Realized UI design of the admin panel into highly ecient and
+            interactive web pages using ReactJs and integrating it with the
+            database
           </p>
           <h6>
             UNV Information & Communication Technology Section, Remote — Data
